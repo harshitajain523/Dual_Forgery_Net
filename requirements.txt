@@ -1,0 +1,8 @@
+torch>=2.0
+torchvision
+efficientnet_pytorch
+albumentations
+tqdm
+scikit-learn
+matplotlib
+Pillow
