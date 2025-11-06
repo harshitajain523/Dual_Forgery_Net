@@ -1,0 +1,23 @@
+# python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+.venv/
+
+# checkpoints / heavy logs - do not commit
+checkpoints/
+logs/
+backups/
+
+# dataset links
+data/
+*.zip
+*.tar.gz
+
+# IDE / OS files
+.vscode/
+.idea/
+.DS_Store
